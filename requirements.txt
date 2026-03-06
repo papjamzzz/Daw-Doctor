@@ -1,0 +1,4 @@
+# DAW Doctor — dependencies
+psutil>=5.9
+rich>=13.0
+Pillow>=9.0
