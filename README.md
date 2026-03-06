@@ -70,7 +70,7 @@ abl
 
 ## Why I Built This
 
-Session is running slow. Plugins stuttering. Buffer maxed out. You're in a creative flow and your machine is the one thing killing it.
+Session is running slow, Plugins stuttering, crackle, Buffer maxed out, crash, etc. Things were flowing and then not so this gives me that peace of mind that all is set in the background.
 
 DAW Doctor gives you answers in seconds so you can get back to what matters.
 
