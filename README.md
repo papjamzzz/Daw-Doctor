@@ -30,7 +30,7 @@ No more guessing why your session is spiking. No more Googling "Ableton high CPU
 ## Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/daw-doctor.git
+git clone https://github.com/papjamzzz/daw-doctor.git
 cd daw-doctor
 ./setup.sh
 ```
