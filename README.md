@@ -6,6 +6,9 @@
 
 OBD diagnostics for your DAW. Catch CPU spikes, latency issues, and audio dropouts before they kill your session.
 
+> **CPU impact: 0% when idle. Runs only when you ask it to.**
+> No background process. No daemon. No scheduler. It wakes up, scans, prints results, and exits. Your session is never touched.
+
 *Zone Out. Dial In. Create.*
 
 ---
