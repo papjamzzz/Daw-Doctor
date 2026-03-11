@@ -2,6 +2,8 @@
 
 > **Your DAW is sick. Let's fix it.**
 
+![DAW Doctor](static/screenshots/dashboard.png)
+
 OBD diagnostics for your DAW. Catch CPU spikes, latency issues, and audio dropouts before they kill your session.
 
 *Zone Out. Dial In. Create.*

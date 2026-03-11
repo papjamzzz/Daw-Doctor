@@ -845,10 +845,15 @@ def mode_als():
         except: pass
         return
 
-    result = subprocess.run(
-        [sys.executable, als_script, raw],
-        capture_output=False   # let it print directly
-    )
+    import importlib.util as _ilu
+    _spec = _ilu.spec_from_file_location("als_analyzer", als_script)
+    _mod  = _ilu.module_from_spec(_spec)
+    _spec.loader.exec_module(_mod)
+    data = _mod.parse_als(raw)
+    if "error" in data:
+        console.print(f"\n  [red]Error:[/red]  {data['error']}\n")
+    else:
+        _mod.print_report(raw, data)
     try: input("\n  Press Enter to return to menu…")
     except: pass
 
