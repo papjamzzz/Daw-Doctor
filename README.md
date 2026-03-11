@@ -21,6 +21,20 @@ No more guessing why your session is spiking. No more Googling "Ableton high CPU
 
 ---
 
+## What It Actually Catches
+
+| Problem | What DAW Doctor Finds |
+|---|---|
+| Plugin overload | Which device is spiking, and by how much |
+| Sample rate mismatch | Driver vs. project vs. interface conflicts |
+| Buffer pressure | Too tight for your track count, too loose for latency-sensitive work |
+| Disk bottleneck | Slow read speeds killing sample playback |
+| Thermal throttling | CPU pulling back clock speed mid-session |
+| Background process spikes | What else is eating your headroom while you produce |
+| Audio dropout history | How many, how often, and likely why |
+
+---
+
 ## Features
 
 - 🔍 **Full System Scan** — CPU, RAM, audio buffer, sample rate, dropouts, thermal state
