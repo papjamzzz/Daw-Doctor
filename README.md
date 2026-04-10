@@ -1,4 +1,4 @@
-# ⚕ DAW Doctor
+# DAW Doctor
 
 > **Your DAW is sick. Let's fix it.**
 
@@ -37,12 +37,12 @@ No more guessing why your session is spiking. No more Googling "Ableton high CPU
 
 ## Features
 
-- 🔍 **Full System Scan** — CPU, RAM, audio buffer, sample rate, dropouts, thermal state
-- 🎛 **Ableton Project Analyzer** — scans your `.als` file and flags what's eating your CPU
-- 🚨 **Background Monitor** — watches your system and sends macOS notifications when things go wrong
-- 🛠 **Fix Commands** — doesn't just tell you what's wrong, gives you the shell command to fix it
-- 📊 **Session Reports** — export a full diagnostic report with timestamp
-- 💡 **Tips Mode** — producer-focused tuning tips for a clean, fast session
+- **Full System Scan** — CPU, RAM, audio buffer, sample rate, dropouts, thermal state
+- **Ableton Project Analyzer** — scans your `.als` file and flags what's eating your CPU
+- **Background Monitor** — watches your system and sends macOS notifications when things go wrong
+- **Fix Commands** — doesn't just tell you what's wrong, gives you the shell command to fix it
+- **Session Reports** — export a full diagnostic report with timestamp
+- **Tips Mode** — producer-focused tuning tips for a clean, fast session
 
 ---
 
@@ -107,4 +107,4 @@ Built by [Creative Konsoles](https://creativekonsoles.com) — tools built using
 
 **[creativekonsoles.com](https://creativekonsoles.com)** &nbsp;·&nbsp; support@creativekonsoles.com
 
-<!-- repo maintenance: 2026-04-04 -->
+<!-- repo maintenance: 2026-04-10 -->
